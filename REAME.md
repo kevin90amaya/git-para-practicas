@@ -13,3 +13,4 @@ esto es una practica de git
 
 - modificamos el archibo leadme agregando una url para confirmar y sincronizar mediante la terminal 
 - <https://escuela.it>
+- nos falto el git push
